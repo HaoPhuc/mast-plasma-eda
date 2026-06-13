@@ -5,7 +5,7 @@ GOAL:
 2. The model is implemented from scratch using NumPy to demonstrate understanding of the underlying mathematics rather than relying on sklearn.
 
 Packages:
-Besides matplotlib and scipy, which I was introduced to at TU/e, I had to import some other new (to me) packages:
+Besides numpy, matplotlib, scipy and pandas, which I was introduced to at TU/e, I had to import some other new (to me) packages:
 1. xarray: multi-dimensional labelled arrays for MAST time-series data
 2. pyarrow: reading .parquet files (MAST shots metadata)
 3. zarr: file format for MAST time-series storage
